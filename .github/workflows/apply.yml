@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
         working-directory: ./
-        name: ShivamBembey
+        name: tear-test-bucket
         owner: shivam.bembey@cloudeq.com
 
     steps:
